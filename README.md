@@ -1,5 +1,5 @@
 # ETF Investing
-## Exchange-Traded Fund
+## *Exchange-Traded Fund*
 
 This notebook offers a web application by using SQL to analyze the performance of an example Exchange-Traded Fund. ETF's save investors time from researching individual stocks or companies and eliminate the risk of investing ina single stock. We will analyze the daily returns of the ETF stocks both individually and collectively, optimize the data with advanced SQL Queries, and deploy the notebook as a web application.
 
